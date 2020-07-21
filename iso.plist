@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://xxx.xxx.com/download/xgzc.ipa</string>
+          <string>https://github.com/lujunlj/xgzc/blob/master/xgzc.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -19,7 +19,7 @@
           <key>needs-shine</key>
           <true/>
           <key>url</key>
-          <string>https://xxx.xxx.com/img/desk.png</string>
+          <string>https://github.com/lujunlj/xgzc/blob/master/desk.png</string>
         </dict>
       </array>
       <key>metadata</key>
